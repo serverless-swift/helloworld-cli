@@ -9,10 +9,8 @@ This code is ment to be used with the book as the supportive and additional mate
 
 ## Cloning the app
 
-## Using CocoaPods
-
 ## Connecting to IBM Cloud Functions
 
-## Testing the app
+## Testing the IBM Cloud based Serverless function
 
 ## Next steps
